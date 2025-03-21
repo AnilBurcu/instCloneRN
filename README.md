@@ -1,3 +1,3 @@
 ## Frameworks ##
 
-- bottom-taps navigation
+- bottom-tabs navigation
